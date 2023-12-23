@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Serhat</h1>
-<h4 align="center"> Jr. Web Developer</h4>
+<h4 align="center">Computer Programming Student</h4>
 
 <br />
 
