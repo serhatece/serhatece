@@ -4,7 +4,7 @@
 <br />
 
 - 👀 I’m interested in Web Applications Development
-- 🌱 I’m currently learning , Html-Css-Javascript-React-Python-C#-Java
+- 🌱 I’m currently learning , Html-Css-Javascript-React-Python-C#
 - 💞️ I’m looking to collaborate on Open source projects, Web applications.
 - 📫 How to reach me <a href="mailto:serhatece16@gmail.com">Email</a>
 
